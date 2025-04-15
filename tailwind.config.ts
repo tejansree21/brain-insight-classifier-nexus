@@ -52,6 +52,20 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				medical: {
+					100: '#f0f7ff',
+					200: '#d0e6ff',
+					300: '#a7ccff',
+					400: '#5a9cf8',
+					500: '#3380ea',
+					600: '#1a5cca',
+					700: '#0e409e',
+					800: '#0a2e71',
+					900: '#061c44',
+				},
+				tumor: '#e34a33',
+				metastasis: '#7a42f4',
+				healthy: '#2cba00',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
